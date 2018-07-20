@@ -1,3 +1,5 @@
 This is first line
 "This is the second line added by windows user" 
 Random line 
+This is the third line
+>>>>>>> 1c0f58c67cfafd73038381ad186174f71c4fcba8
