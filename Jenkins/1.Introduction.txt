@@ -1,0 +1,8 @@
+https://www.blazemeter.com/blog/how-to-use-the-jenkins-scripted-pipeline
+
+
+Jenkins is an open source continuous integration server that provides the ability to continuously perform automated builds and tests. 
+Several tasks can be controlled and monitored by Jenkins, including pulling code from a repository, performing static code analysis,
+building your project, executing unit tests, automated tests and/or performance tests, and finally, deploying your application. 
+
+These tasks typically conform a continuous delivery pipeline.
